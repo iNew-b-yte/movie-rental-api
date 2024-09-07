@@ -1,0 +1,6 @@
+{
+    "name":"Prod App - Genre",
+    "mail":{
+        "host":"prod-server-host"
+    }
+}
